@@ -1,0 +1,5 @@
+export enum UserActionType {
+    USER_FETCHING = "USER_FETCHING",
+    USER_FAILED = "USER_FAILED",
+    USER_SUCCESS = "USER_SUCCESS",
+}
